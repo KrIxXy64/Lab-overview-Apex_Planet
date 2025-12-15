@@ -1,0 +1,36 @@
+Navigation -
+pwd
+ls
+ls -la
+cd folder_name
+
+
+File Operations-
+cp file1 file2
+mv old new
+rm file
+mkdir folder
+
+Permissions-
+chmod 755 file
+chown user:user file
+
+Package Management-
+apt update
+apt install toolname
+dpkg -i package.deb
+
+Networking--
+ip a
+ifconfig
+ping google.com
+netstat -tulnp
+ss -lntp
+
+Processes--
+
+ps aux
+top
+kill PID
+
+
